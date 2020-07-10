@@ -1,1 +1,1 @@
-# cse445_fake_news_detector
+# This project is on Fake News Detector by Machine Learning Algorithm 
