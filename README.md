@@ -1,1 +1,1 @@
-# This project is on Fake News Detector by Machine Learning Algorithms 
+# This project is on Fake News Prediction by Machine Learning Algorithms 
